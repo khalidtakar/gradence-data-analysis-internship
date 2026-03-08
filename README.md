@@ -1,45 +1,89 @@
-# Gradence Data Analysis Internship Programme
+# 📊 Data Analysis Portfolio (Weeks 1–4)
 
-This repository contains my work for the 5-Week Data Analysis Internship Programme by Gradence.  
-Each week focuses on practical data analysis tasks using Python, with an emphasis on data cleaning, exploratory analysis, and business-focused insights.
+## Repository Description (Short)
 
----
-
-## Tools and Technologies
-- Python
-- Pandas
-- NumPy
-- Jupyter Notebook
-- VS Code
+A portfolio of four data analysis projects demonstrating data cleaning, exploratory analysis, machine learning, and business intelligence dashboards using Python, Jupyter Notebook, and Tableau.
 
 ---
 
-## Project Structure
+# About This Repository
 
-Each weekly folder contains:
-- A Jupyter Notebook with data cleaning and analysis
-- A PDF report written for a non-technical business audience
-- The datasets used for that week
+This repository documents my learning journey through a data analysis course where I applied analytical techniques to real datasets. Across four projects, I explored the full analytics workflow: cleaning data, analysing trends, building predictive models, and presenting insights through dashboards.
 
----
-
-## Week 1: Customer Sign-Up Behaviour & Data Quality Audit
-
-**Objective:**  
-Analyse customer sign-up data for a SaaS company to assess data quality and identify trends in user acquisition, subscription plans, demographics, and marketing opt-in behaviour.
-
-**Key Tasks:**
-- Data cleaning and standardisation
-- Handling missing and inconsistent values
-- Exploratory analysis using Pandas aggregations
-- Business insight reporting
-
-**Files Included:**
-- `Week1.ipynb` – Data cleaning and analysis notebook  
-- `Week1_Report.pdf` – Written business report  
-- `datasets/` – Customer sign-up and support ticket datasets
+The work demonstrates practical experience with Python, data visualisation libraries, and Tableau, with a focus on turning raw datasets into clear business insights.
 
 ---
 
-## Upcoming Work
-- Week 2 to Week 5 projects will be added as the programme progresses.
+# Technologies Used
+
+* Python
+* Jupyter Notebook
+* Tableau Public
+
+### Python Libraries
+
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* scikit-learn
+
+### Data Skills
+
+* Data cleaning & preprocessing
+* Exploratory data analysis (EDA)
+* Data visualisation
+* Predictive modelling
+* Dashboard design
+* Business insight communication
+
+---
+
+# Project Overview
+
+## Week 1 — Data Analysis Foundations
+
+Focused on understanding dataset structures and performing basic exploratory analysis. Key tasks included identifying data types, summarising datasets, and extracting simple insights from raw data.
+
+## Week 2 — Sales & Customer Behaviour Analysis
+
+Worked with sales datasets to clean missing or inconsistent data and generate visual insights. Built charts analysing revenue by category, region, and customer demographics using Python visualisation libraries.
+
+## Week 3 — Churn Prediction & Machine Learning
+
+Applied machine learning techniques to predict customer churn and analyse engagement behaviour. Implemented logistic regression and linear regression models and evaluated them using metrics such as accuracy, F1-score, ROC-AUC, RMSE, MAE, and R².
+
+## Week 4 — Business Intelligence Dashboard
+
+Designed an interactive Tableau dashboard analysing TechHub sales performance. The dashboard includes revenue KPIs, monthly revenue trends, product category performance, regional comparisons, and customer demographic insights.
+
+
+
+---
+
+# Live Tableau Dashboard
+
+[https://public.tableau.com/views/TechHubSalesPerformanceDashboard/Dashboard1](https://public.tableau.com/views/TechHubSalesPerformanceDashboard/Dashboard1)
+
+---
+
+# Contact
+
+### Portfolio
+
+[https://khalidtakar.github.io/portfolio-khalidtakar/](https://khalidtakar.github.io/portfolio-khalidtakar/)
+
+### GitHub
+
+[https://github.com/khalidtakar](https://github.com/khalidtakar)
+
+### LinkedIn
+
+[https://www.linkedin.com/in/khalid-takar-272097213/](https://www.linkedin.com/in/khalid-takar-272097213/)
+
+---
+
+# Author
+
+Khalid Takar
+BSc Computer Science — City, University of London
